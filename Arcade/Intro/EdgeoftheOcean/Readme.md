@@ -5,3 +5,5 @@ Edge of the Ocean challenges:
   shapeArea
   
   makeArrayConsecutive2
+  
+  almostIncreasingSequence
