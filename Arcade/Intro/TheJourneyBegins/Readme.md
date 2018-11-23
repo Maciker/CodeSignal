@@ -1,7 +1,7 @@
-The Journey Begins challenges.
+The Journey Begins challenges:
 
-add
+  add
 
-centuryFromYear
+  centuryFromYear
 
-checkPalindrome
+  checkPalindrome
