@@ -7,3 +7,5 @@ Edge of the Ocean challenges:
   makeArrayConsecutive2
   
   almostIncreasingSequence
+  
+  matrixElementsSum
