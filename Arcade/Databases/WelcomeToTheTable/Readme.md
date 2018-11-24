@@ -7,3 +7,5 @@ Welcome to the Table challenges:
   monthlyScholarships
   
   projectsTeam
+   
+  automaticNotifications
