@@ -5,3 +5,5 @@ Welcome to the Table challenges:
   countriesSelection
 
   monthlyScholarships
+  
+  projectsTeam
