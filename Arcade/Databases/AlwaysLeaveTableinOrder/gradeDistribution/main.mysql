@@ -1,0 +1,7 @@
+CREATE PROCEDURE gradeDistribution()
+BEGIN
+	SELECT Name, ID FROM Grades
+    /*WHERE (Final>(0.25*Midterm1+0.25*Midterm2+0.5*Final)) AND (Final>(0.5*Midterm1+0.5*Midterm1)*2)*/
+    WHERE Final >  (Midterm1 + Midterm2)/2
+    ORDER BY LEFT(Name,3), ID ASC;
+END
