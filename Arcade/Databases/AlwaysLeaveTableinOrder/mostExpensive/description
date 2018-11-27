@@ -1,0 +1,10 @@
+The list of expenses is stored in a table Products which has the following columns:
+
+id: unique product id;
+name: the unique name of the product;
+price: the price for one item;
+quantity: the number of items bought.
+The resulting table should contain one row with a single column: the product with the 
+lexicographically smallest name on which Mr. Cash spent the largest amount of money.
+
+The total amount of money spent on a product is calculated as price * quantity.
